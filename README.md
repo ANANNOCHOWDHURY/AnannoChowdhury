@@ -2,115 +2,103 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0b1020,55:1a1240,100:8b7bff&text=ANANNO%20CHOWDHURY&fontColor=ffc857&fontSize=46&fontAlignY=40&desc=BSCSE%20Student%20%C2%B7%20Cyber%20Security%20%26%20Web&descColor=e8ebf7&descSize=18&descAlignY=62&animation=fadeIn" alt="Ananno Chowdhury" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:0d1117,100:003d2b&text=ANANNO%20CHOWDHURY&fontColor=00ff9c&fontSize=44&fontAlignY=45&desc=BSCSE%20Student%20%C2%B7%20Cyber%20Security&descColor=c9d1d9&descSize=16&descAlignY=72" alt="Ananno Chowdhury" width="100%"/>
 
 <a href="https://github.com/ANANNOCHOWDHURY">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=5A46E0&center=true&vCenter=true&width=640&lines=Hi+there%2C+I'm+Ananno;BSCSE+student+at+UIU;Learning+cyber+security+and+the+web">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=FFC857&center=true&vCenter=true&width=640&lines=Hi+there%2C+I'm+Ananno;BSCSE+student+at+UIU;Learning+cyber+security+and+the+web" alt="Hi there, I'm Ananno" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=0A7D4F&center=true&vCenter=true&width=640&lines=%24+whoami;BSCSE+student+at+UIU;Learning+cyber+security;Practicing+on+TryHackMe+and+Hack+The+Box">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=00FF9C&center=true&vCenter=true&width=640&lines=%24+whoami;BSCSE+student+at+UIU;Learning+cyber+security;Practicing+on+TryHackMe+and+Hack+The+Box" alt="$ whoami" />
   </picture>
 </a>
 
 <br/>
 
-<a href="https://github.com/ANANNOCHOWDHURY/ANANNOCHOWDHURY"><img src="https://komarev.com/ghpvc/?username=ANANNOCHOWDHURY&style=flat-square&color=8b7bff&label=PROFILE+VIEWS" alt="Profile views"/></a>
-<a href="https://github.com/ANANNOCHOWDHURY?tab=followers"><img src="https://img.shields.io/github/followers/ANANNOCHOWDHURY?style=flat-square&color=ffc857&labelColor=1a1240" alt="Followers"/></a>
+<img src="https://komarev.com/ghpvc/?username=ANANNOCHOWDHURY&style=flat-square&color=00ff9c&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://github.com/ANANNOCHOWDHURY?tab=followers"><img src="https://img.shields.io/github/followers/ANANNOCHOWDHURY?style=flat-square&color=00ff9c&labelColor=0d1117" alt="Followers"/></a>
 
 </div>
 
 <br/>
 
-## About me
+## `> about`
 
-```ts
-const ananno = {
-  fullName: "MD NOWMI HAYAT CHOWDHURY ANANNO",
-  studying: "BSCSE at United International University (UIU)",
-  goal: "Master cyber security",
-  languages: ["JavaScript", "TypeScript", "Python"],
-  frontend: ["React", "Next.js", "Three.js"],
-  backend: ["Node.js", "Express", "PostgreSQL"],
-  tools: ["Git", "Docker", "Linux"],
-  practicingOn: ["TryHackMe", "Hack The Box", "KC7", "picoCTF", "OverTheWire", "CyberDefenders", "LetsDefend", "PortSwigger Academy"],
-  openTo: "collaboration and learning together",
-};
+```bash
+ananno@uiu:~$ neofetch
+
+  Name      : MD NOWMI HAYAT CHOWDHURY ANANNO
+  Study     : BSCSE @ United International University (UIU)
+  Focus     : Cyber security
+  OS        : Kali Linux, Linux, Windows, Termux
+  Languages : C, C++, Java, JavaScript, PHP, Bash
+  Practice  : TryHackMe, Hack The Box, KC7
+  Goal      : Master cyber security
+  Open to   : Collaboration and learning together
 ```
 
 I'm a BSCSE student at United International University (UIU). My interest in technology and programming brought me to computer science, and I'm eager to learn new technologies and use them to solve real problems. My goal is to master cyber security, and I practice on hands-on platforms like TryHackMe, Hack The Box, and KC7.
 
-## Skills
-
-<table align="center">
-  <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/JavaScript-1a1240?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-      <img src="https://img.shields.io/badge/TypeScript-1a1240?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
-      <img src="https://img.shields.io/badge/Python-1a1240?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-1a1240?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-      <img src="https://img.shields.io/badge/Next.js-1a1240?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-      <img src="https://img.shields.io/badge/Three.js-1a1240?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-1a1240?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js"/>
-      <img src="https://img.shields.io/badge/Express-1a1240?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-1a1240?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-1a1240?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
-      <img src="https://img.shields.io/badge/Docker-1a1240?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/>
-      <img src="https://img.shields.io/badge/Linux-1a1240?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Cyber security</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/TryHackMe-1a1240?style=for-the-badge&logo=tryhackme&logoColor=C11111" alt="TryHackMe"/>
-      <img src="https://img.shields.io/badge/Hack%20The%20Box-1a1240?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box"/>
-      <img src="https://img.shields.io/badge/KC7-1a1240?style=for-the-badge" alt="KC7"/>
-      <img src="https://img.shields.io/badge/picoCTF-1a1240?style=for-the-badge" alt="picoCTF"/>
-      <img src="https://img.shields.io/badge/OverTheWire-1a1240?style=for-the-badge" alt="OverTheWire"/>
-      <img src="https://img.shields.io/badge/CyberDefenders-1a1240?style=for-the-badge" alt="CyberDefenders"/>
-      <img src="https://img.shields.io/badge/LetsDefend-1a1240?style=for-the-badge" alt="LetsDefend"/>
-      <img src="https://img.shields.io/badge/PortSwigger%20Academy-1a1240?style=for-the-badge&logo=portswigger&logoColor=FF6633" alt="PortSwigger Academy"/>
-    </td>
-  </tr>
-</table>
-
-## GitHub stats
+## `> skills`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ANANNOCHOWDHURY&show_icons=true&count_private=true&hide_border=true&bg_color=0b1020&title_color=8b7bff&icon_color=ffc857&text_color=e8ebf7" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANANNOCHOWDHURY&layout=compact&hide_border=true&bg_color=0b1020&title_color=8b7bff&text_color=e8ebf7" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com/?user=ANANNOCHOWDHURY&hide_border=true&background=0B1020&ring=8B7BFF&fire=FFC857&currStreakLabel=FFC857&sideLabels=E8EBF7&currStreakNum=E8EBF7&sideNums=E8EBF7&dates=A0A9CC" alt="GitHub streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ANANNOCHOWDHURY&bg_color=0b1020&color=e8ebf7&line=8b7bff&point=ffc857&area=true&area_color=8b7bff&hide_border=true" alt="Contribution graph" width="100%" />
-
-</div>
-
-## Let's work together
-
-<div align="center">
-
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-8b7bff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LinkedIn-1a1240?style=for-the-badge&logo=linkedin&logoColor=ffc857" alt="LinkedIn"/></a>
-<a href="https://github.com/ANANNOCHOWDHURY"><img src="https://img.shields.io/badge/GitHub-1a1240?style=for-the-badge&logo=github&logoColor=ffc857" alt="GitHub"/></a>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,php,bash,html,css&perline=8&theme=dark" alt="Languages and web" />
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,kali,windows,git&perline=4&theme=dark" alt="Systems and tools" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:8b7bff,55:1a1240,100:0b1020&section=footer" width="100%" alt="" />
+<img src="https://img.shields.io/badge/Cyber%20Security-0d1117?style=for-the-badge&logo=hackaday&logoColor=00ff9c" alt="Cyber Security"/>
+<img src="https://img.shields.io/badge/Networking-0d1117?style=for-the-badge&logo=cisco&logoColor=00ff9c" alt="Networking"/>
+<img src="https://img.shields.io/badge/Malware%20Analysis-0d1117?style=for-the-badge&logoColor=00ff9c" alt="Malware Analysis"/>
+<img src="https://img.shields.io/badge/Hydra-0d1117?style=for-the-badge&logoColor=00ff9c" alt="Hydra"/>
+<img src="https://img.shields.io/badge/Tor-0d1117?style=for-the-badge&logo=torproject&logoColor=00ff9c" alt="Tor"/>
+<img src="https://img.shields.io/badge/Termux-0d1117?style=for-the-badge&logo=termux&logoColor=00ff9c" alt="Termux"/>
+
+</div>
+
+## `> practice`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=C11111" alt="TryHackMe"/>
+<img src="https://img.shields.io/badge/Hack%20The%20Box-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box"/>
+<img src="https://img.shields.io/badge/KC7-0d1117?style=for-the-badge" alt="KC7"/>
+<img src="https://img.shields.io/badge/picoCTF-0d1117?style=for-the-badge" alt="picoCTF"/>
+<img src="https://img.shields.io/badge/OverTheWire-0d1117?style=for-the-badge" alt="OverTheWire"/>
+<img src="https://img.shields.io/badge/CyberDefenders-0d1117?style=for-the-badge" alt="CyberDefenders"/>
+<img src="https://img.shields.io/badge/LetsDefend-0d1117?style=for-the-badge" alt="LetsDefend"/>
+<img src="https://img.shields.io/badge/PortSwigger%20Academy-0d1117?style=for-the-badge&logo=portswigger&logoColor=FF6633" alt="PortSwigger Academy"/>
+
+</div>
+
+## `> stats`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ANANNOCHOWDHURY&show_icons=true&count_private=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&border_color=30363d" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANANNOCHOWDHURY&layout=compact&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&border_color=30363d" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=ANANNOCHOWDHURY&background=0D1117&border=30363D&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ANANNOCHOWDHURY&bg_color=0d1117&color=c9d1d9&line=00ff9c&point=ffffff&area=true&area_color=00ff9c&hide_border=true" alt="Contribution graph" width="100%" />
+
+</div>
+
+## `> contact`
+
+<div align="center">
+
+<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-00ff9c?style=for-the-badge&logo=gmail&logoColor=0d1117" alt="Email"/></a>
+<a href="https://linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c" alt="LinkedIn"/></a>
+<a href="https://github.com/ANANNOCHOWDHURY"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff9c" alt="GitHub"/></a>
+
+<br/><br/>
+
+```bash
+ananno@uiu:~$ echo "Stay curious. Hack ethically."
+Stay curious. Hack ethically.
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:003d2b,100:0d1117&section=footer" width="100%" alt="" />
 
 </div>
