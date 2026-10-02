@@ -2,12 +2,12 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0b1020,55:1a1240,100:8b7bff&text=ANANNO%20CHOWDHURY&fontColor=ffc857&fontSize=46&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%203D%20on%20the%20Web&descColor=e8ebf7&descSize=18&descAlignY=62&animation=fadeIn" alt="Ananno Chowdhury" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0b1020,55:1a1240,100:8b7bff&text=ANANNO%20CHOWDHURY&fontColor=ffc857&fontSize=46&fontAlignY=40&desc=BSCSE%20Student%20%C2%B7%20Cyber%20Security%20%26%20Web&descColor=e8ebf7&descSize=18&descAlignY=62&animation=fadeIn" alt="Ananno Chowdhury" width="100%"/>
 
 <a href="https://github.com/ANANNOCHOWDHURY">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=5A46E0&center=true&vCenter=true&width=640&lines=I+build+for+the+web%2C+in+3D+too.;Full-stack+developer;React+%C2%B7+Node.js+%C2%B7+Three.js">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=FFC857&center=true&vCenter=true&width=640&lines=I+build+for+the+web%2C+in+3D+too.;Full-stack+developer;React+%C2%B7+Node.js+%C2%B7+Three.js" alt="I build for the web, in 3D too." />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=5A46E0&center=true&vCenter=true&width=640&lines=Hi+there%2C+I'm+Ananno;BSCSE+student+at+UIU;Learning+cyber+security+and+the+web">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=FFC857&center=true&vCenter=true&width=640&lines=Hi+there%2C+I'm+Ananno;BSCSE+student+at+UIU;Learning+cyber+security+and+the+web" alt="Hi there, I'm Ananno" />
   </picture>
 </a>
 
@@ -25,18 +25,18 @@
 ```ts
 const ananno = {
   fullName: "MD NOWMI HAYAT CHOWDHURY ANANNO",
-  role: "Full-stack developer",
+  studying: "BSCSE at United International University (UIU)",
+  goal: "Master cyber security",
   languages: ["JavaScript", "TypeScript", "Python"],
   frontend: ["React", "Next.js", "Three.js"],
   backend: ["Node.js", "Express", "PostgreSQL"],
   tools: ["Git", "Docker", "Linux"],
-  security: ["TryHackMe", "Hack The Box"],
-  currentlyBuilding: "my 3D developer portfolio",
-  openTo: "collaboration and new projects",
+  practicingOn: ["TryHackMe", "Hack The Box", "KC7", "picoCTF", "OverTheWire", "CyberDefenders", "LetsDefend", "PortSwigger Academy"],
+  openTo: "collaboration and learning together",
 };
 ```
 
-I build for the web, in 3D too. I'm a full-stack developer and a BSCSE student at United International University (UIU), and I enjoy turning ideas into fast, polished, interactive products, from the database to the browser. I'm also building my cyber security skills on TryHackMe and Hack The Box.
+I'm a BSCSE student at United International University (UIU). My interest in technology and programming brought me to computer science, and I'm eager to learn new technologies and use them to solve real problems. My goal is to master cyber security, and I practice on hands-on platforms like TryHackMe, Hack The Box, and KC7.
 
 ## Skills
 
@@ -74,10 +74,16 @@ I build for the web, in 3D too. I'm a full-stack developer and a BSCSE student a
     </td>
   </tr>
   <tr>
-    <td><b>Security</b></td>
+    <td><b>Cyber security</b></td>
     <td>
       <img src="https://img.shields.io/badge/TryHackMe-1a1240?style=for-the-badge&logo=tryhackme&logoColor=C11111" alt="TryHackMe"/>
       <img src="https://img.shields.io/badge/Hack%20The%20Box-1a1240?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box"/>
+      <img src="https://img.shields.io/badge/KC7-1a1240?style=for-the-badge" alt="KC7"/>
+      <img src="https://img.shields.io/badge/picoCTF-1a1240?style=for-the-badge" alt="picoCTF"/>
+      <img src="https://img.shields.io/badge/OverTheWire-1a1240?style=for-the-badge" alt="OverTheWire"/>
+      <img src="https://img.shields.io/badge/CyberDefenders-1a1240?style=for-the-badge" alt="CyberDefenders"/>
+      <img src="https://img.shields.io/badge/LetsDefend-1a1240?style=for-the-badge" alt="LetsDefend"/>
+      <img src="https://img.shields.io/badge/PortSwigger%20Academy-1a1240?style=for-the-badge&logo=portswigger&logoColor=FF6633" alt="PortSwigger Academy"/>
     </td>
   </tr>
 </table>
