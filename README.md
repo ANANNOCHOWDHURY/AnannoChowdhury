@@ -30,12 +30,13 @@ const ananno = {
   frontend: ["React", "Next.js", "Three.js"],
   backend: ["Node.js", "Express", "PostgreSQL"],
   tools: ["Git", "Docker", "Linux"],
+  security: ["TryHackMe", "Hack The Box"],
   currentlyBuilding: "my 3D developer portfolio",
   openTo: "collaboration and new projects",
 };
 ```
 
-I build for the web, in 3D too. I'm a full-stack developer and a BSCSE student at United International University (UIU), and I enjoy turning ideas into fast, polished, interactive products, from the database to the browser.
+I build for the web, in 3D too. I'm a full-stack developer and a BSCSE student at United International University (UIU), and I enjoy turning ideas into fast, polished, interactive products, from the database to the browser. I'm also building my cyber security skills on TryHackMe and Hack The Box.
 
 ## Skills
 
@@ -72,26 +73,11 @@ I build for the web, in 3D too. I'm a full-stack developer and a BSCSE student a
       <img src="https://img.shields.io/badge/Linux-1a1240?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
     </td>
   </tr>
-</table>
-
-## Projects
-
-<table>
   <tr>
-    <td width="33%" valign="top">
-      <a href="https://github.com/ANANNOCHOWDHURY/project-one"><b>Project One</b></a><br/>
-      <sub><code>React</code> · <code>Node.js</code></sub><br/><br/>
-      One line on what it does and who it helps.
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://github.com/ANANNOCHOWDHURY/project-two"><b>Project Two</b></a><br/>
-      <sub><code>Python</code> · <code>FastAPI</code></sub><br/><br/>
-      One line on what it does and who it helps.
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://github.com/ANANNOCHOWDHURY/project-three"><b>Project Three</b></a><br/>
-      <sub><code>Next.js</code> · <code>PostgreSQL</code></sub><br/><br/>
-      One line on what it does and who it helps.
+    <td><b>Security</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/TryHackMe-1a1240?style=for-the-badge&logo=tryhackme&logoColor=C11111" alt="TryHackMe"/>
+      <img src="https://img.shields.io/badge/Hack%20The%20Box-1a1240?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box"/>
     </td>
   </tr>
 </table>
@@ -116,8 +102,6 @@ I build for the web, in 3D too. I'm a full-stack developer and a BSCSE student a
 <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-8b7bff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LinkedIn-1a1240?style=for-the-badge&logo=linkedin&logoColor=ffc857" alt="LinkedIn"/></a>
 <a href="https://github.com/ANANNOCHOWDHURY"><img src="https://img.shields.io/badge/GitHub-1a1240?style=for-the-badge&logo=github&logoColor=ffc857" alt="GitHub"/></a>
-<a href="https://www.facebook.com/ananno.ananno.77?mibextid=ZbWKwL"><img src="https://img.shields.io/badge/Facebook-1a1240?style=for-the-badge&logo=facebook&logoColor=ffc857" alt="Facebook"/></a>
-<a href="https://www.instagram.com/chowdhuryananno/"><img src="https://img.shields.io/badge/Instagram-1a1240?style=for-the-badge&logo=instagram&logoColor=ffc857" alt="Instagram"/></a>
 
 <br/><br/>
 
