@@ -80,8 +80,6 @@ I'm a BSCSE student at United International University (UIU). My interest in tec
 
 <img src="https://streak-stats.demolab.com/?user=ANANNOCHOWDHURY&background=0B1020&border=2A2F55&ring=8B7BFF&fire=FFC857&currStreakLabel=FFC857&sideLabels=E8EBF7&currStreakNum=E8EBF7&sideNums=E8EBF7&dates=A0A9CC" alt="GitHub streak" />
 
-<img src="https://ghchart.rshah.org/8b7bff/ANANNOCHOWDHURY" alt="Contribution calendar" width="100%" />
-
 </div>
 
 ## `> contact`
