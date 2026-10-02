@@ -7,7 +7,7 @@
 <a href="https://github.com/ANANNOCHOWDHURY">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=5A46E0&center=true&vCenter=true&width=640&lines=%24+whoami;BSCSE+student+at+UIU;Learning+cyber+security;Practicing+on+TryHackMe+and+Hack+The+Box">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=FFC857&center=true&vCenter=true&width=640&lines=%24+whoami;BSCSE+student+at+UIU;Learning+cyber+security;Practicing+on+TryHackMe+and+Hack+The+Box" alt="$ whoami" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=FFC857&center=true&vCenter=true&width=640&lines=%24+whoami;BSCSE+student+at+UIU;Learning+cyber+security" alt="$ whoami" />
   </picture>
 </a>
 
