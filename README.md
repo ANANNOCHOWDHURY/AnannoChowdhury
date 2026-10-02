@@ -23,14 +23,14 @@
 ## `> about`
 
 ```bash
-ananno@uiu:~$ neofetch
+ananno@bigboy:~$ neofetch
 
   Name      : MD NOWMI HAYAT CHOWDHURY ANANNO
   Study     : BSCSE @ United International University (UIU)
   Focus     : Cyber security
-  OS        : Kali Linux, Linux, Windows, Termux
-  Languages : C, C++, Java, JavaScript, PHP, Bash
-  Practice  : TryHackMe, Hack The Box, KC7
+  OS        : Windows, Linux, Kali Linux, Termux
+  Languages : HTML5, CSS, C, C++, Java, JavaScript, PHP, Bash
+  Practice  : TryHackMe, Hack The Box, KC7, CyberDefenders, LetsDefend
   Goal      : Master cyber security
   Open to   : Collaboration and learning together
 ```
@@ -88,14 +88,14 @@ I'm a BSCSE student at United International University (UIU). My interest in tec
 
 <div align="center">
 
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-8b7bff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LinkedIn-0b1020?style=for-the-badge&logo=linkedin&logoColor=ffc857" alt="LinkedIn"/></a>
+<a href="mailto:mdnowmihayatchowdhuryananno@gmail.com"><img src="https://img.shields.io/badge/Email-8b7bff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://linkedin.com/in/ananno-chowdhury"><img src="https://img.shields.io/badge/LinkedIn-0b1020?style=for-the-badge&logo=linkedin&logoColor=ffc857" alt="LinkedIn"/></a>
 <a href="https://github.com/ANANNOCHOWDHURY"><img src="https://img.shields.io/badge/GitHub-0b1020?style=for-the-badge&logo=github&logoColor=ffc857" alt="GitHub"/></a>
 
 <br/><br/>
 
 ```bash
-ananno@uiu:~$ echo "Stay curious. Hack ethically."
+ananno@bigboy:~$ echo "Stay curious. Hack ethically."
 Stay curious. Hack ethically.
 ```
 
