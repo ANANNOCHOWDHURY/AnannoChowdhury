@@ -6,7 +6,7 @@
 
 <a href="https://github.com/ANANNOCHOWDHURY">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=5A46E0&center=true&vCenter=true&width=640&lines=%24+whoami;BSCSE+student+at+UIU;Learning+cyber+security;Practicing+on+TryHackMe+and+Hack+The+Box">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=5A46E0&center=true&vCenter=true&width=640&lines=%24+whoami;BSCSE+student+at+UIU;Learning+cyber+security">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=FFC857&center=true&vCenter=true&width=640&lines=%24+whoami;BSCSE+student+at+UIU;Learning+cyber+security" alt="$ whoami" />
   </picture>
 </a>
@@ -80,7 +80,7 @@ I'm a BSCSE student at United International University (UIU). My interest in tec
 
 <img src="https://streak-stats.demolab.com/?user=ANANNOCHOWDHURY&background=0B1020&border=2A2F55&ring=8B7BFF&fire=FFC857&currStreakLabel=FFC857&sideLabels=E8EBF7&currStreakNum=E8EBF7&sideNums=E8EBF7&dates=A0A9CC" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ANANNOCHOWDHURY&bg_color=0b1020&color=e8ebf7&line=8b7bff&point=ffc857&area=true&area_color=8b7bff&hide_border=true" alt="Contribution graph" width="100%" />
+<img src="https://ghchart.rshah.org/8b7bff/ANANNOCHOWDHURY" alt="Contribution calendar" width="100%" />
 
 </div>
 
