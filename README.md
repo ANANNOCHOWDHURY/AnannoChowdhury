@@ -35,7 +35,7 @@ ananno@bigboy:~$ neofetch
   Open to   : Collaboration and learning together
 ```
 
-I'm a BSCSE student at United International University (UIU). My interest in technology and programming brought me to computer science, and I'm eager to learn new technologies and use them to solve real problems. My goal is to master cyber security, and I practice on hands-on platforms like TryHackMe, Hack The Box, and KC7.
+I'm a BSCSE student at United International University (UIU). My interest in technology and programming brought me to computer science, and I'm eager to learn new technologies and use them to solve real problems. I'm building my cybersecurity knowledge through hands-on labs and personal projects on platforms like TryHackMe, Hack The Box, KC7, CyberDefenders, and LetsDefend.
 
 ## `> skills`
 
@@ -86,7 +86,7 @@ I'm a BSCSE student at United International University (UIU). My interest in tec
 
 <div align="center">
 
-<a href="mailto:mdnowmihayatchowdhuryananno@gmail.com"><img src="https://img.shields.io/badge/Email-8b7bff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:admin@anannochowdhury.com"><img src="https://img.shields.io/badge/Email-8b7bff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://linkedin.com/in/ananno-chowdhury"><img src="https://img.shields.io/badge/LinkedIn-0b1020?style=for-the-badge&logo=linkedin&logoColor=ffc857" alt="LinkedIn"/></a>
 <a href="https://github.com/ANANNOCHOWDHURY"><img src="https://img.shields.io/badge/GitHub-0b1020?style=for-the-badge&logo=github&logoColor=ffc857" alt="GitHub"/></a>
 <a href="https://www.anannochowdhury.com/"><img src="https://img.shields.io/badge/Portfolio-0b1020?style=for-the-badge&logo=googlechrome&logoColor=ffc857" alt="Portfolio"/></a>
